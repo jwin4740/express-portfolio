@@ -76,7 +76,6 @@ a {
 
 #intro {
     clear: both;
-   
     background-color: black;
     border-radius: 5px;
     color: white;
@@ -87,6 +86,31 @@ a {
     height: 240px;
 }
 
+#minervaDiv {
+    clear: both;
+    border-radius: 5px;
+    color: white;
+    margin: auto;
+    text-align: center;
+    opacity: 0.80;
+    width: 70%;
+    padding: 10px;
+    background-color: black;
+}
+
+.minervaPic {
+    height: 225px;
+    width: 425px;
+    border-radius: 5px;
+  
+}
+.blueMinerva{
+    color: blue;
+}
+.minervaText{
+    font-weight: bold;
+    font-size: 18px;
+}
 #welcome {
     position: relative;
     font-size: 100px;
@@ -225,7 +249,7 @@ h4 {
 #others {
     clear: both;
 }
- 
+
 .otherp {
     margin: 10px 0px 10px 0px;
     font-size: 18px;
